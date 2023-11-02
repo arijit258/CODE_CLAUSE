@@ -16,6 +16,13 @@ The project focuses on the following key components:
 
 5. **Visualization**: Visualize the actual and predicted stock prices to gain insights into the model's performance.
 
+## Images
+
+![image-1](https://github.com/arijit258/CODE_CLAUSE/blob/main/Stock_Market_Predicttion/image-1.png)
+![image-2](https://github.com/arijit258/CODE_CLAUSE/blob/main/Stock_Market_Predicttion/image-2.png)
+![image-3](https://github.com/arijit258/CODE_CLAUSE/blob/main/Stock_Market_Predicttion/image-3.png)
+
+
 ## Prerequisites
 
 Before running this project, ensure that you have the following dependencies installed:
